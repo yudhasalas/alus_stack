@@ -36,8 +36,8 @@ class Push_notif
 	        $auth = array(
 	            'VAPID' => array(
 	            'subject' => 'https://hppx.alus.co/sadulur',
-	            'publicKey' => 'BPtQ4R98rz826XFRBgcQXvGaKVocrGCY5tHw6IjUbN_ViyDFVPDs7uF7MJ53xasHhanWY-aX5orccImwNS7RwQM',
-	            'privateKey' => 'EX-2L_SwjgWwFi-8xpYNZ3qgXtT-EOuyMLqWPaVm9WI',
+	            'publicKey' => 'ISI publicKey',
+	            'privateKey' => 'ISI PRIVATE KEY',
 	            ),
 	        );
 
@@ -72,8 +72,8 @@ class Push_notif
         $auth = array(
             'VAPID' => array(
             'subject' => 'https://hppx.alus.co/sadulur',
-            'publicKey' => 'BPtQ4R98rz826XFRBgcQXvGaKVocrGCY5tHw6IjUbN_ViyDFVPDs7uF7MJ53xasHhanWY-aX5orccImwNS7RwQM',
-            'privateKey' => 'EX-2L_SwjgWwFi-8xpYNZ3qgXtT-EOuyMLqWPaVm9WI',
+            'publicKey' => 'ISI PUBLIK KEY',
+            'privateKey' => 'ISI PRIVATE KEY',
             ),
         );
 

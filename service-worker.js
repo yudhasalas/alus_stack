@@ -1,4 +1,4 @@
-const CACHE_NAME = "polinggauladminv1.1";
+const CACHE_NAME = "alusbase2";
 var urlsToCache = [
 ];
 
@@ -66,7 +66,7 @@ self.addEventListener('push', function(event) {
   //console.log('[Service Worker] Push Received.');
   //console.log(`[Service Worker] Push had this data: "${event.data.text()}"`);
 
-  const title = "Warung Sadulur";
+  const title = "Alus Base";
   isi = JSON.parse(event.data.text());
 
   const options = {

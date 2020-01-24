@@ -21,8 +21,8 @@
 
 'use strict';
 
-const applicationServerPublicKey = 'BCRjnof_T9IGWGRY-SQoa5KdX49YYTsmvGiXSXunsUuP2Rq3z5jDAlID0UbMND4sgEXdOeYW9V_IxYNnUrplu1E';
-const applicationServerPrivateKey = 'SGkW7Ynu6q1igl3SxN2mt9oDWdpYN68vACidvjsU1xA';
+const applicationServerPublicKey = 'ISI PUBLIK KEY';
+const applicationServerPrivateKey = 'ISI PRIVATE KEY';
 //const pushButton = document.querySelector('.js-push-btn');
 let isSubscribed = false;
 let swRegistration = null;
