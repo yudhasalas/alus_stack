@@ -35,7 +35,7 @@
 
   <style type="text/css">
   .cover{
-    background-image: url('./assets/logo/bg-01.jpg');
+    background-image: url(<?php echo base_url('assets/logo/bg-01.jpg') ?>);
 
   }
   .overlay {
