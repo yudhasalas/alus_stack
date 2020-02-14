@@ -35,7 +35,9 @@
 
   <style type="text/css">
   .cover{
-    background-image: url(<?php echo base_url('assets/logo/bg-01.jpg') ?>);
+
+    background-image: url(<?php echo base_url('assets/logo/bg-01.jpg'); ?>);
+
 
   }
   .overlay {
@@ -59,7 +61,7 @@
 </div>
 <div class="login-box" style="z-index: 3">
   <div class="login-logo">
-    <a href="" style='color:#fff;'><b>Alus 2.0</b></a>
+    <a href="" style='color:#fff;'><b>Login</b></a>
   </div>
   <!-- /.login-logo -->
   <div class="login-box-body">
